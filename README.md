@@ -32,6 +32,4 @@ The MovieDB API project aims to fetch movie data from the MovieDB API and displa
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
