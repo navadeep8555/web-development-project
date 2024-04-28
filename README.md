@@ -25,6 +25,3 @@ The MovieDB API project aims to fetch movie data from the MovieDB API and displa
 3. Enter the title of the movie you want to search for in the search bar.
 4. Hit the search button to view the results.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
